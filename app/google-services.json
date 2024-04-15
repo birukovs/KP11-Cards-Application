@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1085232751011",
+    "firebase_url": "https://kp11-cards-application-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kp11-cards-application",
+    "storage_bucket": "kp11-cards-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085232751011:android:7b27758af61cac04ccba16",
+        "android_client_info": {
+          "package_name": "com.example.kp11cardsapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeZx0ZW3L1LxxPu1Uv2TtN8ZtnLbqap0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
